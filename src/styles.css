@@ -1,0 +1,19 @@
+.contents {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todoContent {
+  text-decoration: line-through;
+}
+
+.errorMessage {
+  color: red;
+}
+
+.deleteButton {
+  margin-left: 15px;
+}
